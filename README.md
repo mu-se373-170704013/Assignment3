@@ -1,4 +1,5 @@
 # Assignment3
+All codes are in "App.js" file
 
 In the begining it starts with null value so app shows that "Button is not clicked yet" text, if it's not null it shows the value
 
